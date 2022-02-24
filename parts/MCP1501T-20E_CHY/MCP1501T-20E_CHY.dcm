@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP1501T-20E_CHY
+D MICROCHIP - MCP1501T-20E/CHY - VOLT REF, AUTO, SERIES, 2.048V, SOT23
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005474E.pdf
+$ENDCMP
+#
+#End Doc Library
